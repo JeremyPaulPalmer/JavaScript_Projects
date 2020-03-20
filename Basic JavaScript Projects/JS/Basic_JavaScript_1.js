@@ -6,3 +6,7 @@ document.write(players);
 document.write(sabrina);
 document.write(peyton);
 document.write(5 * 2);
+
+function displayDate() {
+    document.getElementById("demo").innerHTML = Date();
+}
