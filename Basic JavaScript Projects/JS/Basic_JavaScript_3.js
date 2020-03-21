@@ -32,7 +32,7 @@ document.getElementById("unary").innerHTML = -negFunc();
 
 var y = 18;
 y++;
-document.writeln(y);
+document.writeln(y) + "<br>";
 
 var z = 21;
 z--;
